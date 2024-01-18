@@ -1,13 +1,30 @@
 <body>
   <center>
-    <h1 align="center">~ 💖 велком 💖 ~</h1>
+    
+    <h1 align="center">~ 💖 ｗｅｌｃｏｍｅ 💖 ~</h1>
 <br>
-<div align="center">
-  <a href="https://thicc-thighs.de/" ><img src="https://lanyard.kyrie25.me/api/344438472846737411?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  /></a>
-  <br>
-</div>
 <div>
-<h2 align="center"> 🦊 ~ обо мне  ~ 🦊 </h2>
+  <div> <img src="https://imgur.com/ZdfW5am.png"> </div>
+  <h1></h1>
+  <br>
+  <b>ｗｅｂ-ｄｅｖｅｌｏｐｅｒ</b>
+  <h1></h1><br>
+  <div align="center">
+  <a href="https://thicc-thighs.de/" ><img align="left" src="https://lanyard.kyrie25.me/api/344438472846737411?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&width=100%"  /></a>
+  </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+</div>
+    
+<div>
+<h2 align="center"> 🦊 ~ ａｂｏｕｔ ｍｅ  ~ 🦊 </h2>
   <div align="center"><img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right"></div>
 <li><b>Name:</b> Evgeny</li>
 <li>
@@ -32,7 +49,7 @@
 <br>
 <h2 align="center">📝 ~ Связь со мной ~ 📝</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+    <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
   </div>
   <br>
   <p align="center">еще больше сошиал со мной <br> самые используемые мной</p>
