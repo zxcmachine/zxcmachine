@@ -13,12 +13,8 @@
   <img align="left" src="https://lanyard.kyrie25.me/api/344438472846737411?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&width=100%"  />
     <br>
 
-  <img align="right" src="https://pa1.narvii.com/7541/ed5d6aa64506ec874de8a04d243228030b7b1686r1-576-47_hq.gif"  />
+  <p align="right" > <img src="https://pa1.narvii.com/7541/ed5d6aa64506ec874de8a04d243228030b7b1686r1-576-47_hq.gif"  /></p>
   </div>
-    <br>
-    <br>
-    <br>
-    <br>
     <br>
     <br>
     <br>
@@ -29,9 +25,9 @@
 <div>
 <h2 align="center"> 🦊 ~ ａｂｏｕｔ ｍｅ  ~ 🦊 </h2>
   <div align="center"><img src="https://bipbap.ru/wp-content/uploads/2021/08/1497495062_9U0oM1f.gif" align="right" width="400px" ></div>
-<li><b>Name:</b> Evgeny</li>
+<li><b>ｎａｍｅ:</b> ｅｖｇｅｎｙ</li>
 <li>
-<b>Working @:</b> AVANTIS
+<b>ｊｏｂ @:</b> ＡＶＡＮＴＩＳ
 </li>
 <br><br><br>
     <br>
